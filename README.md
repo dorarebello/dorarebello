@@ -1,14 +1,9 @@
 ## Hi there 👋
 ## Business Consultant | Finance | Data Analytics
-<!--
-**dorarebello/dorarebello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-I'm passionate about solving business problems through finance, analytics, and technology.
+## I'm passionate about solving business problems through finance, analytics, and technology.
 
 
 ### Areas of Interest
-
 - Business Consulting
 - Financial Analysis
 - Data Analytics
@@ -25,7 +20,6 @@ I'm passionate about solving business problems through finance, analytics, and t
 - Git & GitHub
 
 ### Current Focus
-
 - Building analytical dashboards
 - Learning Python for automation
 - Developing business intelligence solutions
@@ -33,19 +27,12 @@ I'm passionate about solving business problems through finance, analytics, and t
 - Airline consulting
 
 ### Featured Projects
-
 📊 Financial Models
-
 📈 Power BI Dashboards
-
 ✈️ Airline, Chemical Manufacturing Consulting
-
 🤖 Excel & Python Automation
-
 📚 Business Case Studies
-
 ### Let's Connect
 
 LinkedIn: ((https://www.linkedin.com/in/dorarebello/))
-
 Email: (rebellodora22@gmail.com)
