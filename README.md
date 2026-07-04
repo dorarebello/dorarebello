@@ -12,19 +12,17 @@
 - Automation
 
 ### Tools & Technologies
-- Excel
+- Excel & VBA Macros
 - Power BI
 - Python
 - SQL
-- SAP
-- Git & GitHub
+
 
 ### Current Focus
 - Building analytical dashboards
 - Learning Python for automation
 - Developing business intelligence solutions
-- Financial modelling
-- Airline consulting
+- Consulting & Monitoring Buisnesses 
 
 ### Featured Projects
 📊 Financial Models
@@ -32,7 +30,7 @@
 ✈️ Airline, Chemical Manufacturing Consulting
 🤖 Excel & Python Automation
 📚 Business Case Studies
-### Let's Connect
 
-LinkedIn: ((https://www.linkedin.com/in/dorarebello/))
+### Let's Connect
+LinkedIn: (https://www.linkedin.com/in/dorarebello/)
 Email: (rebellodora22@gmail.com)
