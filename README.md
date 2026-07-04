@@ -1,7 +1,8 @@
-## Hi there 👋
-## 🚀 Business Consultant | Finance | Data Analytics
-### 🌐 Passionate about solving business problems through data, finance, and technology
-
+## Hi there 👋 I am Dora! 
+🚀 Business Consultant | Finance | Data Analytics
+###
+🌐 Passionate about solving business problems through data, finance, and technology
+###
 ## 💼 About Me
 I'm a Business Consultant with experience in finance, business analysis, and process improvement. I enjoy solving real-world business problems through data, analytics, and technology while building practical solutions using Excel, Power BI, Python, and SQL.
 
